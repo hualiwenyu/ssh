@@ -1,0 +1,6 @@
+
+/.idea #过滤整个根目录下的.idea文件夹
+*.class #过滤.class文件
+ssh.iml
+/target/classes
+.DS_Store
