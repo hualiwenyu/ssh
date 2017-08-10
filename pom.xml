@@ -29,6 +29,13 @@
       <version>7.0</version>
     </dependency>
 
+    <!--集成mongodb-->
+    <dependency>
+      <groupId>org.springframework.data</groupId>
+      <artifactId>spring-data-mongodb</artifactId>
+      <version>1.9.5.RELEASE</version>
+    </dependency>
+
 
     <!-- 添加spring核心依赖 -->
     <dependency>

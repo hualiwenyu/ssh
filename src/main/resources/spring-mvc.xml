@@ -16,4 +16,6 @@
     <!-- 启动SpringMVC的注解功能，完成请求和注解POJO的映射 -->
     <mvc:annotation-driven/><!-- 会注册DefaultAnnotationHandlerMapping和AnnotationMethodHandlerAdapter两个bean-->
 
+    <import resource="classpath:spring-mongo.xml"/>
+
 </beans>
